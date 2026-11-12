@@ -1,0 +1,10 @@
+build/
+install/
+log/
+ros.key
+*.key
+rosbag2_*/
+src/yahboomcar_slam/params/ORBvoc.txt
+src/yahboomcar_mediapipe/yahboomcar_mediapipe/file/shape_predictor_68_face_landmarks.dat
+core
+**/core
